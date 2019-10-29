@@ -6,7 +6,7 @@ Following is the screenshots of the project .
 
 1. Get Request -
 
-![alt tag](https://github.com/RiteshKumawat/RestApi/issues/1#issue-513724723)
+https://user-images.githubusercontent.com/40330132/67743826-df722d00-fa45-11e9-83ca-ba913c019949.png
 
 2. Post Request -
 
