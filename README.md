@@ -6,7 +6,7 @@ Following is the screenshots of the project .
 
 1. Get Request -
 
-<img src="https://github.com/RiteshKumawat/RestApi/issues/1#issue-513724723">
+![alt tag](https://github.com/RiteshKumawat/RestApi/issues/1#issue-513724723)
 
 2. Post Request -
 
