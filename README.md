@@ -10,4 +10,4 @@ https://user-images.githubusercontent.com/40330132/67743826-df722d00-fa45-11e9-8
 
 2. Post Request -
 
-<img src="https://github.com/RiteshKumawat/RestApi/issues/2#issue-513724953">
+<img src="https://github.com/RiteshKumawat/RestApi/issues/2#issue-513724953"/>
