@@ -6,8 +6,9 @@ Following is the screenshots of the project .
 
 1. Get Request -
 
-https://user-images.githubusercontent.com/40330132/67743826-df722d00-fa45-11e9-83ca-ba913c019949.png
+![get request](getRequestPreview.png)
 
 2. Post Request -
 
-<img src="https://github.com/RiteshKumawat/RestApi/issues/2#issue-513724953"/>
+![post request](postRequestPreview.png)
+
